@@ -61,6 +61,6 @@ int main () {
     // toqlarini sonini chiqarish
     printf("\nToqlari soni: %d\n", counter);
 
-    // dasturni yakunlash
+    // dasturni yakun
     return 0;
 }

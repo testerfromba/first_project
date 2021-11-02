@@ -6,7 +6,7 @@
 
 void consolega_chiqar(int massiv[], int n){
 
-    printf("n = %d\n", n);
+    printf("n = asda sd%d\n", n);
     for(int i=0; i<n; i++){
         printf("massiv[%d] = %d\n", i, massiv[i]);
     }
