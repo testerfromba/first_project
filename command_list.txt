@@ -9,3 +9,5 @@ git commit -m "ozgarish nomi"
 # yangi o'zgarishni serverga chiqarish
 git push
 
+# o'zgarishlar holatini ko'rish uchun
+git status 
