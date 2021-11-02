@@ -21,7 +21,7 @@ int main () {
     long int massiv[n], toqlari[n], saqlab_turuvchi;
 
     // massiv ni tasodifiy sonlar bilan to'ldirish
-    printf("Massiv:");
+    printf("Massivlar:");
     for(int i=0; i<n; i++){
         massiv[i] = rand()%11+1;
         printf(" %ld", massiv[i]);

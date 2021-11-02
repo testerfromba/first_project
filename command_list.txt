@@ -1,0 +1,11 @@
+# yangi o'zgarishlarni ro'yxatga olish
+git add . 
+
+
+# yangi o'zgarishlarni nomlash
+git commit -m "ozgarish nomi"
+
+
+# yangi o'zgarishni serverga chiqarish
+git push
+
